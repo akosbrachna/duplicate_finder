@@ -223,7 +223,6 @@
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.btn_start_work);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "File_manager";
             this.Text = "Duplicate File Finder";
